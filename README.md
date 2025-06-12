@@ -26,4 +26,4 @@ This app uses the **`cleve.csv`** file (Cleveland Heart Disease dataset). Ensure
 
 ## 🚀 Launch the App
 
-Live App: [https://dalhatu-sirajo.streamlit.app]
+Live App: [https://smd-hda.streamlit.app]

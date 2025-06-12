@@ -63,7 +63,7 @@ Explore the insights!
 🔗 Code + Demo
 GitHub Repo: https://github.com/Dalhatu-Sirajo/HeartDiseaseApp
 
-Live Demo: https://dalhatu-sirajo.streamlit.app
+Live Demo: https://smd-hda.streamlit.app
 
 🎯 What I Learned
 How to build an interactive dashboard from scratch using Streamlit
