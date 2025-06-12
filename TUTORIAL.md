@@ -47,7 +47,7 @@ The app dynamically updates charts based on filters:
 🚀 How to Use the App
 Clone the repo or access the app:
 
-https://dalhatu-sirajo.streamlit.app
+https://smd-hda.streamlit.app
 Use the sidebar to filter by gender, chest pain type, or blood pressure range.
 
 Choose which columns to display in the table.
